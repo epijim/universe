@@ -1,0 +1,18 @@
+[
+    {
+        "package": "riem",
+        "url": "https://github.com/epijim/episheet"
+    },
+    {
+        "package": "tinkr",
+        "url": "https://github.com/epijim/notifyme"
+    },
+    {
+        "package": "rtimicropem",
+        "url": "https://github.com/epijim/FootballData"
+    },
+    {
+        "package": "goodpress",
+        "url": "https://github.com/openpharma/GithubMetrics"
+    }
+]
